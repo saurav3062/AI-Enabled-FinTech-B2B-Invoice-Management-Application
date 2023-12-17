@@ -15,8 +15,8 @@ To install all the dependencies from `package.json` to run the project.
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### ***To see the whole project you have to downlode all the folder to specific directory and run them well***
+### **_To see the whole project you have to downlode all the folder to specific directory and run them well_**
 
-## Output 
+## Output
 
-Find all the output images in [Screen Shots](https://github.com/sambitos23/B2B-Invoice-Management-System/tree/master/Frontend%20-%20React%20Js/Screen%20Shots) folder.
+Find all the output images in [Screen Shots](https://github.com/saurav3062/AI-Enabled-FinTech-B2B-Invoice-Management-Application/tree/master/Frontend%20-%20React%20Js/Screen%20Shots) folder.
